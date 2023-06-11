@@ -38,9 +38,9 @@ To run the Customer Retention Prediction using ANN project, follow these steps:
 
 ## Usage
 
-- Modify the dataset path and adjust the preprocessing steps if needed in `preprocess.py`.
-- Train and tune the ANN model by modifying the architecture and hyperparameters in `train_model.py`.
-- Evaluate the model's performance and generate predictions in `evaluate_model.py`.
-- Explore the insights and recommendations based on the results in `insights.py`.
+- Modify the dataset path and adjust the preprocessing steps if needed.
+- Train and tune the ANN model by modifying the architecture and hyperparameters.
+- Evaluate the model's performance and generate predictions.
+- Explore the insights and recommendations based on the results.
 
 
