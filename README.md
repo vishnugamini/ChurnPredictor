@@ -4,7 +4,7 @@ Customer Retention Prediction using ANN is a deep learning project that aims to 
 
 ## Dataset
 
-The dataset used in this project contains customer information such as demographics, usage patterns, and customer behavior. The dataset is available at [dataset-link](https://example-dataset-url.com).
+The dataset used in this project contains customer information such as demographics, usage patterns, and customer behavior. 
 
 ## Features
 
